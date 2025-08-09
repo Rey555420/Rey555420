@@ -1,9 +1,10 @@
-# 👋 Hello, I'm [HanzyTzy]! 
+![My GIF](https://media.giphy.com/media/your-gif-link.gif)# 👋 Hello, I'm [HanzyTzy]! 
 
 💻 **Full-Stack Developer | Open-Source Enthusiast**  
 🌍 **Based in [Indonesia-Bandung]**  
-📚 **Currently learning:** Python, JavaScript, DevOps  
+📚 **Currently learning:** Python, JavaScript, DevOps  ![My GIF](https://media.giphy.com/media/your-gif-link.gif)
 🔥 **Fun fact:** I automate boring tasks for fun!  
+![My GIF](https://media.giphy.com/media/your-gif-link.gif)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
